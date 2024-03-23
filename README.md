@@ -8,3 +8,6 @@ With the Sukio Mahikari Master App, administrators can effortlessly monitor and 
 
 From generating unique QR codes for seamless check-in processes to accessing real-time attendance data and analytics, the Sukio Mahikari Master App equips administrators with everything they need to effectively oversee events and ensure a memorable and enjoyable experience for all participants.
 
+## Getting Started
+- **Request Account** Request an account to the super admin
+- **Login**
