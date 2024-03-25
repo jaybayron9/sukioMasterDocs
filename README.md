@@ -9,7 +9,7 @@ With the Sukio Mahikari Master App, administrators can effortlessly monitor and 
 From generating unique QR codes for seamless check-in processes to accessing real-time attendance data and analytics, the Sukio Mahikari Master App equips administrators with everything they need to effectively oversee events and ensure a memorable and enjoyable experience for all participants.
 
 ## Prerequisites
-- Android devices
+- Available only in Android devices
 
 ## Getting Started
 - **Request Account** Request an account to the super admin
@@ -19,15 +19,26 @@ From generating unique QR codes for seamless check-in processes to accessing rea
         <img src="images/login.jpeg" alt="Registration Screenshot" width="200">
     </p>
 
-- **Login** Upon successful login, access the dashboard where members and visitors can scan QR codes or fill out forms for check-in and check-out.
+- **Dashboard** Upon successful login, access the dashboard where members and visitors can scan QR codes or fill out forms for check-in and check-out.
 
     <p align="center">
         <img src="images/dashboard.jpeg" alt="Registration Screenshot" width="200">
     </p>
 
-    **Member Button**: This feature generates a personalized QR code exclusive to registered visitors of the Sukio Member application. This QR code allows authorized individuals to seamlessly check-in at the venue, ensuring secure and efficient access for attendees.
-
+    **Member Check-In Button**: This function creates a unique QR code solely for registered users of the Sukio Member application, granting them smooth entry into the venue. After scanning the QR code, the page automatically redirects back to the dashboard. If there's no scan within 2 minutes, it also returns to the dashboard, ensuring efficiency in managing check-ins.
 
     <p align="center">
         <img src="images/memberInQR.jpeg" alt="Registration Screenshot" width="200">
-    </p> 
+    </p>
+
+    **Exit Button for Member** Positioned below the Member button, this feature provides a convenient option for members to check out whenever needed. Simply clicking the exit icon in the designated column enables members to efficiently complete the check-out process.
+
+    <p align="center">
+        <img src="images/memberOut.jpeg" alt="Registration Screenshot" width="200">
+    </p>
+
+    **Visitor Check-In Button**: This functionality caters to visitors without accounts in the sukio member app. It offers a form on the page where they can input necessary details to complete the check-in process.
+
+    <p align="center">
+        <img src="images/visitorIn.jpeg" alt="Registration Screenshot" width="200">
+    </p>
