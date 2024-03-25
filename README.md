@@ -65,5 +65,5 @@ From generating unique QR codes for seamless check-in processes to accessing rea
 - **User Application**: This section exhibits the list of applications registered in the Sukio Member app. Administrators can approve applications only with permission from the super admin by clicking the check icon button in the respective row. Additionally, clicking the eye button in the same row provides access to the member's history log, offering comprehensive insights into their activity.
 
     <p align="center">
-        <img src="images/userMange.jpeg" alt="Registration Screenshot" width="200">
+        <img src="images/userManage.jpeg" alt="Registration Screenshot" width="200">
     </p>
