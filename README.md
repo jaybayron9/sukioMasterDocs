@@ -21,3 +21,13 @@ From generating unique QR codes for seamless check-in processes to accessing rea
 
 - **Login** Upon successful login, access the dashboard where members and visitors can scan QR codes or fill out forms for check-in and check-out.
 
+    <p align="center">
+        <img src="images/dashboard.jpeg" alt="Registration Screenshot" width="200">
+    </p>
+
+    **Member Button**: This feature generates a personalized QR code exclusive to registered visitors of the Sukio Member application. This QR code allows authorized individuals to seamlessly check-in at the venue, ensuring secure and efficient access for attendees.
+
+
+    <p align="center">
+        <img src="images/memberInQR.jpeg" alt="Registration Screenshot" width="200">
+    </p> 
