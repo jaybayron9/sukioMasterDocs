@@ -21,24 +21,49 @@ From generating unique QR codes for seamless check-in processes to accessing rea
 
 - **Dashboard** Upon successful login, access the dashboard where members and visitors can scan QR codes or fill out forms for check-in and check-out.
 
-    <p align="center">
-        <img src="images/dashboard.jpeg" alt="Registration Screenshot" width="200">
-    </p>
+    <div style="display:flex; justify-content:center;">
+        <img src="docs/dashboard.jpeg" alt="Login Screenshot" width="200">
+        <img src="docs/drawer.jpeg" alt="OTP Screenshot" width="200">
+    </div> 
 
-    **Member Check-In Button**: This function creates a unique QR code solely for registered users of the Sukio Member application, granting them smooth entry into the venue. After scanning the QR code, the page automatically redirects back to the dashboard. If there's no scan within 2 minutes, it also returns to the dashboard, ensuring efficiency in managing check-ins.
+    ***Member Check-In Button***: This function creates a unique QR code solely for registered users of the Sukio Member application, granting them smooth entry into the venue. After scanning the QR code, the page automatically redirects back to the dashboard. If there's no scan within 2 minutes, it also returns to the dashboard, ensuring efficiency in managing check-ins.
 
     <p align="center">
         <img src="images/memberInQR.jpeg" alt="Registration Screenshot" width="200">
     </p>
 
-    **Exit Button for Member** Positioned below the Member button, this feature provides a convenient option for members to check out whenever needed. Simply clicking the exit icon in the designated column enables members to efficiently complete the check-out process.
+    ***Exit Button for Member*** Positioned below the Member button, this feature provides a convenient option for members to check out whenever needed. Simply clicking the exit icon in the designated row enables members to efficiently complete the check-out process.
 
     <p align="center">
         <img src="images/memberOut.jpeg" alt="Registration Screenshot" width="200">
     </p>
 
-    **Visitor Check-In Button**: This functionality caters to visitors without accounts in the sukio member app. It offers a form on the page where they can input necessary details to complete the check-in process.
+    ***Visitor Check-In Button***: This functionality caters to visitors without accounts in the sukio member app. It offers a form on the page where they can input necessary details to complete the check-in process.
 
     <p align="center">
         <img src="images/visitorIn.jpeg" alt="Registration Screenshot" width="200">
+    </p>
+
+    ***Exit Button for Visitor***: Positioned below Visitor button, this feature provides a convenient option for visitor to check out. Simply clicking the exit icon in the designated row enables visitor to efficiently complete the check-out process.
+
+     <p align="center">
+        <img src="images/visitorOut.jpeg" alt="Registration Screenshot" width="200">
+    </p>
+
+- **Member List**: Displays the list of members who have checked in on the current day.
+
+    <p align="center">
+        <img src="images/memberList.jpeg" alt="Registration Screenshot" width="200">
+    </p>
+
+- **Visitor List**: Displays the list of non-members or visitor who have checked in on the current day.
+
+    <p align="center">
+        <img src="images/visitorList.jpeg" alt="Registration Screenshot" width="200">
+    </p>
+
+- **User Application**: This section exhibits the list of applications registered in the Sukio Member app. Administrators can approve applications only with permission from the super admin by clicking the check icon button in the respective row. Additionally, clicking the eye button in the same row provides access to the member's history log, offering comprehensive insights into their activity.
+
+    <p align="center">
+        <img src="images/userMange.jpeg" alt="Registration Screenshot" width="200">
     </p>
